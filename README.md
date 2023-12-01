@@ -2,9 +2,9 @@
 
 ### Education
 Engineering Data Analytics and Statistics, MS
--Washington University in Saint Louis
+  Washington University in Saint Louis
 Electrical Engineering, BS
--University of Missouri - Columbia
+  University of Missouri - Columbia
 
 ### Experience
 Real Time Software Engineer @ The Boeing Company
