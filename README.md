@@ -6,7 +6,7 @@
 Operating System (ROS), Git, Jenkins, VersionOne, AGILE, Real-Time Operating Systems (RTOS)
 
 ## Education
-- M.S., Engineering Data Analytics and Statistics | Washington University in Saint Louis
+- M.S. Engineering Data Analytics and Statistics | Washington University in Saint Louis
 - B.S. Electrical Engineering | University of Missouri - Columbia
 
 ## Experience
@@ -17,4 +17,5 @@ Operating System (ROS), Git, Jenkins, VersionOne, AGILE, Real-Time Operating Sys
 
 
 ## Projects
-
+### Movie Recommendation System Capstone
+[Publication](https://github.com/aflynn0213/MovieRecommenderForDummies)
