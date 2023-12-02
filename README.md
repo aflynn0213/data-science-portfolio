@@ -17,5 +17,9 @@ Operating System (ROS), Git, Jenkins, VersionOne, AGILE, Real-Time Operating Sys
 
 
 ## Projects
-### Movie Recommendation System Capstone
-[Publication](https://github.com/aflynn0213/MovieRecommenderForDummies)
+### Movie Recommendation Engine Capstone
+[Repository](https://github.com/aflynn0213/MovieRecommenderForDummies)
+
+### Fantasy Baseball Miscellaneous
+[Repository](https://github.com/aflynn0213/FantasyPlayerEvaluation)
+
