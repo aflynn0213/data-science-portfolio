@@ -1,6 +1,6 @@
 # Prospective Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills:
 - Programming: Ada, C, C++, C#, SQL, PHP, Python, Matlab, ARM assembly
 - Software Tools and Environments: Linux Development, Windows Development, Visual Studio, Robotics 
 Operating System (ROS), Git, Jenkins, VersionOne, AGILE, Real-Time Operating Systems (RTOS)
