@@ -23,3 +23,5 @@ Operating System (ROS), Git, Jenkins, VersionOne, AGILE, Real-Time Operating Sys
 ### Fantasy Baseball Miscellaneous
 [Repository](https://github.com/aflynn0213/FantasyPlayerEvaluation)
 
+### Used Car Multi-Output Prediction
+[Repository](https://github.com/aflynn0213/vehicle_predictions)
