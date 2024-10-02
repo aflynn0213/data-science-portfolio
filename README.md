@@ -20,8 +20,8 @@ Operating System (ROS), Git, Jenkins, VersionOne, AGILE, Real-Time Operating Sys
 ### Movie Recommendation Engine Capstone
 [Repository](https://github.com/aflynn0213/MovieRecommenderForDummies)
 
-### Fantasy Baseball Miscellaneous
-[Repository](https://github.com/aflynn0213/FantasyPlayerEvaluation)
+### K% and BB% Prediction Notebook
+[Repository](https://github.com/aflynn0213/K_BB_Evaluation)
 
 ### Used Car Multi-Output Prediction
 [Repository](https://github.com/aflynn0213/vehicle_predictions)
